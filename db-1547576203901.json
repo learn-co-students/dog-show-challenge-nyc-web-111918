@@ -2,7 +2,7 @@
   "dogs": [
     {
       "id": 1,
-      "name": "Babeyee",
+      "name": "Baby",
       "breed": "Scottish Deerhound",
       "sex": "male"
     },
@@ -14,19 +14,19 @@
     },
     {
       "id": 3,
-      "name": "Charlie is a smaht boi!",
+      "name": "Snickers",
       "breed": "Dachshund",
       "sex": "female"
     },
     {
       "id": 4,
-      "name": "Hot Dog",
+      "name": "Harvey",
       "breed": "Irish Spaniel",
       "sex": "male"
     },
     {
       "id": 5,
-      "name": "Graceeeeeeee",
+      "name": "Gracie",
       "breed": "Miniature Pinscher",
       "sex": "female"
     },
@@ -75,7 +75,7 @@
     {
       "id": 13,
       "name": "Lady",
-      "breed": "Mexican hairless",
+      "breed": "Mexicanhairless",
       "sex": "female"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "id": 15,
-      "name": "Pepper the Dog",
+      "name": "Pepper",
       "breed": "Westhighland Terrier",
       "sex": "female"
     },
@@ -116,7 +116,7 @@
     },
     {
       "id": 20,
-      "name": "KoKo",
+      "name": "Coco",
       "breed": "Affenpinscher",
       "sex": "female"
     }
